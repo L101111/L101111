@@ -2,7 +2,7 @@
 
   <img src="https://github.com/L101111/L101111/blob/main/giphy.gif" width="400">
 
-<p>`"Dv Iuhruv Vdpvd dznshq rqjpd qrw irujh ivlqjru qh irujrqjvurq lqjur ivlq irujlqjurv urvjurqil urjivlqjvurx irujlqurvj."`</p>
+`"Dv Iuhruv Vdpvd dznshq rqjpd qrw irujh ivlqjru qh irujrqjvurq lqjur ivlq irujlqjurv urvjurqil urjivlqjvurx irujlqurvj.`
  
 
 <h3 align="left">Skillss:</h3>
