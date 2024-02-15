@@ -2,7 +2,8 @@
 
   <img src="https://github.com/L101111/L101111/blob/main/giphy.gif" width="400">
 
-`Dv Iuhruv Vdpvd dznshq rqjpd qrw irujh ivlqjru qh irujrqjvurq lqjur ivlq irujlqjurv urvjurqil urjivlqjvurx irujlqurvj.`
+<p>Im a hacker, I love computer systems, networking, coding, and learning.</p>
+<p>Currently Im working on security projects and tools.</p>
  
 
 <h3 align="left">Skillss:</h3>
