@@ -1,6 +1,6 @@
 ### sup?
 
-  <img src="https://github.com/L101111/L101111/blob/main/giphy.gif" width="400">
+  <img src="https://github.com/L101111/L101111/blob/main/s.gif" width="400">
 
 <p>Im a hacker, I love computer systems, networking, coding, and learning.</p>
 <p>Currently Im working on security projects and tools.</p>
