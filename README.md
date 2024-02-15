@@ -2,8 +2,8 @@
 
   <img src="https://github.com/L101111/L101111/blob/main/giphy.gif" width="400">
 
-<p>Im a computer enthusiast. /br
-Im on my hacking journey, currently upgrading my skills and writing hacking tools.</p>
+<p>Im a computer enthusiast. </p>
+<p>Im on my hacking journey, currently upgrading my skills and writing hacking tools.</p>
  
 
 <h3 align="left">Skillss:</h3>
