@@ -3,6 +3,9 @@
   <h1>sup?</h1>
   <img src="https://github.com/L101111/L101111/blob/main/s.gif" width="600"'><br>
   <br>
+
+# skills
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -33,7 +36,7 @@
 </div>
 
 ###
-###
+# stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=L101111&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="L101111's Stats">
