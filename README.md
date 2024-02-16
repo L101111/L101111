@@ -40,6 +40,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=L101111&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="L101111's Stats">
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br>
 <br>
