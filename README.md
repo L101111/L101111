@@ -41,11 +41,9 @@
 
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/L101111/L101111/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 
 
