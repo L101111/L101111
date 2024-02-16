@@ -36,6 +36,7 @@
 ###
 
 ![L101111's Stats](https://github-readme-stats.vercel.app/api?username=L101111&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![L101111's Streak](https://github-readme-streak-stats.herokuapp.com/?user=L101111&theme=midnight-purple&hide_border=true)
 ![L101111's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=L101111&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 ###
 
