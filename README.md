@@ -1,6 +1,6 @@
 ### sup?
 
-  <img src="https://github.com/L101111/L101111/blob/main/s.gif" width="600">
+  <img src="https://github.com/L101111/L101111/blob/main/s.gif" width="600" align='center'>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
