@@ -36,8 +36,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L101111&theme=midnight-purple&hide_border=true" alt="L101111's Streak">
-   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=L101111&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="L101111's Stats">
 
 
