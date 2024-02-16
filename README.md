@@ -36,7 +36,7 @@
   <br>
   <br>
   
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/ShubhKotnala/github-readme-quotes/blob/custom-quotes/customQuotes/quotes.json)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/L101111/L101111/blob/main/quotes)
   
 </div>
 <br>
