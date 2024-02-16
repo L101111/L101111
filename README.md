@@ -1,6 +1,5 @@
   
 <div align="center">
-  <h1>sup?</h1>
   <img src="https://github.com/L101111/L101111/blob/main/s.gif" width="600"'><br>
   <br>
   <br>
