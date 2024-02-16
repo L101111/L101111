@@ -1,10 +1,9 @@
-
+### sup?
 
   
 
 <div align="center">
-  <h1>sup?</h1>
-  <br>
+
   <img src="https://github.com/L101111/L101111/blob/main/s.gif" width="600"'><br>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
