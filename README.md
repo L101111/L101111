@@ -34,7 +34,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <br>
-  <br>
+
+  <img src="https://github.com/L101111/L101111/blob/main/qr.jpg" width="150px">
   
 
   
