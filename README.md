@@ -46,7 +46,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=L101111&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="L101111's Stats">
   <br>
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=L101111&theme=tokyonight&<img show_icons=true&hide_border=true&layout=compact">
+
   
   <img src="https://github.com/L101111/L101111/blob/main/qr.jpg" width="150px"/>
   <img 
