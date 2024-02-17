@@ -49,7 +49,6 @@
   <img src="https://github.com/L101111/L101111/blob/main/qr.jpg" width="150px"/>
 
 <div/>
-<br>
-<br>
+
 
 
