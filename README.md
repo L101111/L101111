@@ -2,6 +2,9 @@
 <div align="center">
   <img src="https://github.com/L101111/L101111/blob/main/s.gif" width="600"'><br>
   <br>
+<p align="center">
+<a href="https://medium.com/@imthedanger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imthedanger" height="30" width="40" /></a>
+</p>
   <br>
 
 
@@ -53,8 +56,5 @@
 
 <div/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@imthedanger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imthedanger" height="30" width="40" /></a>
-</p>
+
 
