@@ -41,10 +41,7 @@
   
 </div>
 <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@imthedanger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imthedanger" height="30" width="40" /></a>
-</p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=L101111&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="L101111's Stats">
@@ -56,5 +53,8 @@
 
 <div/>
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://medium.com/@imthedanger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imthedanger" height="30" width="40" /></a>
+</p>
 
