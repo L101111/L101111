@@ -4,8 +4,9 @@
   <br>
 <p align="center">
 <a href="https://medium.com/@imthedanger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imthedanger" height="30" width="40" /></a>
-<a href="https://twitter.com/@_imthedanger_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_imthedanger_" height="30" width="40" /></a>
-<a href="https://discord.gg/@iamtheonewhoknocks__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@iamtheonewhoknocks__" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/1136325612592701590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@iamtheonewhoknocks__" height="30" width="40" /></a>
+  <a href="https://twitter.com/@_imthedanger_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_imthedanger_" height="30" width="40" /></a>
+
 </p>
   <br>
 
